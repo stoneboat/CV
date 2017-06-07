@@ -1,8 +1,8 @@
-title: "简历标题"
+title: "推免简历"
 lang: "" #语言设置 zh表示中文 en 表示英语
-name: "你的名字"
-jobtitle: "求职意向" #可空不显示
-photo: "assets/img/wyphoto.jpg" #照片可空，不显示
+name: "卫煜"
+jobtitle: "推免简历" #可空不显示
+photo: "assets/img/wyphoto.JPG" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
