@@ -74,7 +74,7 @@ main: #简历主要内容，
   name: 项目经历
   content:
   - title: 端对端加密数据库zerodb研究
-    duration: 2016年6月 - 2016年6月
+    duration: 2015年6月 - 2016年6月
     detail: 项目和工作介绍，项目总结.
     sub: 实习研究
   - title: Project Name
