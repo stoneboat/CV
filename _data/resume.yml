@@ -73,10 +73,11 @@ main: #简历主要内容，
 - type: projects
   name: 项目经历
   content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
+  - title: 端对端加密数据库zerodb研究
+    duration: 2016年6月 - 2016年6月
+    detail: zerodb是一个开源的，最新的端对端加密数据库，它的亮点是实现了一套基于面向对象数据库的密文查询协议，我的工作是搞懂它具体的工作原理，实现细节，对查询协议进行分析。
+    现在的研究情况是，查询协议代码实现分析完毕，做了初步的安全性分析。下一步会继续跟随刘哲理老师的研究生把所学运用到cryptdb的研究上
+    sub: 实习研究
   - title: Project Name
     summary: Projects' introduction or summary
     detail:
