@@ -75,6 +75,7 @@ main: #简历主要内容，
   content:
   - title: 端对端加密数据库zerodb研究
     duration: 2015年6月 - 2016年6月
+    summary: zerodb是一个开源的，最新的端对端加密数据库，它的亮点是实现了一套基于面向对象数据库的密文查询协议，我的工作是搞懂它具体的工作原理，实现细节，对查询协议进行分析。
     detail: 项目和工作介绍，项目总结.
     sub: 实习研究
   - title: Project Name
