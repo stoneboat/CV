@@ -25,11 +25,9 @@ contact: #联系方式连接等3~5行
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
 - type: education 
-  name: '在校学习成绩'
+  name: '学习成绩'
   content: #选择需要的格式
-  - title: 82.967     12/39
-    sub: 五学期总成绩
-    detail: 学分绩   排名
+  - title: 五学期总成绩 学分绩:82.967/100  排名:12/39
   - title: 85.384     2/39
     sub: 第五学期总成绩
     detail: 学分绩   排名
